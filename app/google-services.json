@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357876362018",
+    "project_id": "secquraise-assignment-95b8d",
+    "storage_bucket": "secquraise-assignment-95b8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357876362018:android:8af62202169e9da6c4537b",
+        "android_client_info": {
+          "package_name": "com.spn.secquraiseassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357876362018-st5hjou48rr4ifhnp21mtvh1d6jhjj8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJLaQd7bmDQTAMkLorf5a3PX31Mxkolms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357876362018-st5hjou48rr4ifhnp21mtvh1d6jhjj8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
